@@ -19,8 +19,8 @@ cd fastnetProject
 npm install
 ```
 
-- Git - Downloads
-- Node.js — Download Node.js®
+- [Git - Downloads]
+- [Node.js — Download Node.js®]
 
 ## 실행
 
