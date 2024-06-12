@@ -20,7 +20,7 @@ npm install
 ```
 
 - [Git - Downloads](https://git-scm.com/downloads)
-- [Node.js — Download Node.js®] https://git-scm.com/downloads
+- [Node.js — Download Node.js®](https://git-scm.com/downloads)
 
 ## 실행
 
