@@ -19,8 +19,8 @@ cd fastnetProject
 npm install
 ```
 
-- Git - Downloads (링크걸기)
-- Node.js - Download Node.js (링크걸기)
+- Git - Downloads https://git-scm.com/downloads
+- Node.js - Download Node.js https://nodejs.org/en
 
 ## 실행
 
